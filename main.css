@@ -89,6 +89,24 @@ p{
     margin-top: 70px;
 
 }
+/* top margin */
+.vase_with_flowers{
+    margin: 30px;
+}
+.col-3{
+    /* side margins */
+    flex-basis: 30%;
+    min-width: 70px;
+    align-items: center;
+    margin: bottom 30px; ;
+}
+.product_container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color:not sure;
+}
 
 
 

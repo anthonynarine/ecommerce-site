@@ -5,6 +5,10 @@
     padding: 0;
     box-sizing: inherit;
 }
+/* front style copeid from google fonts - link added to html */
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 .navbar {
     display: flex;
@@ -15,6 +19,7 @@
 nav {
     flex: 1;
     text-align: right;
+    text-emphasis-color: ;
 }
 
 nav ul {
@@ -69,12 +74,10 @@ p{
     margin: 30px 0;
     border-radius: 30px;
 }
-.header{
-    background: radial-gradient(#fff, 707070);
 
+.header {
+    background:slategrey;
 }
-
-
 
 
 

@@ -176,7 +176,7 @@ added to col-f styleing above   */
 .footer{
     background:slategrey;
     font-size: 14px;
-    padding: 60px 0 20px;
+    padding: 25px 0 20px;
 }
 .footer-col-1, .footer-col-2{
     min-width:100px;
